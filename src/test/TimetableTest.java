@@ -1,4 +1,5 @@
-package com.gym.master;
+import com.gym.master.*;
+import org.junit.jupiter.api.Test;
 
 public class TimetableTest {
 
@@ -62,4 +63,3 @@ public class TimetableTest {
     }
 
 }
-
